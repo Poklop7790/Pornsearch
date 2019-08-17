@@ -1,5 +1,6 @@
 # Pornsearch
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/071c9b8d3ba44c80b2044f21ffbabd59)](https://app.codacy.com/app/Poklop7790/Pornsearch?utm_source=github.com&utm_medium=referral&utm_content=Poklop7790/Pornsearch&utm_campaign=Badge_Grade_Dashboard)
 [![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg?style=flat-square)](https://github.com/Flet/semistandard)
 
 Easy way to search for porn content
